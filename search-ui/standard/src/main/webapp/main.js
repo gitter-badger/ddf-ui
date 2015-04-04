@@ -149,7 +149,9 @@ require.config({
         },
         openlayers: {
             exports: 'ol'
-        }
+        },
+
+        bootstrapselect: ['bootstrap'] 
     },
 
     waitSeconds: 0
