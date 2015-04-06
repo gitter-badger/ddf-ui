@@ -12,6 +12,8 @@
 -->
 <img src="https://tools.codice.org/wiki/download/attachments/3047458/ddf.jpg"/>
 # [Distributed Data Framework UI \(DDF-UI\)](http://ddf.codice.org/)
+
+[![Join the chat at https://gitter.im/mplachec/ddf-ui](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mplachec/ddf-ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/codice/ddf-ui.png?branch=master)](https://travis-ci.org/codice/ddf-ui)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/3718/badge.svg)](https://scan.coverity.com/projects/3718)
 
